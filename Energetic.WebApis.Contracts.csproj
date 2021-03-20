@@ -7,22 +7,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <Compile Remove="ApiDto.cs" />
-	  <Compile Remove="AuthenticationProvidersDto.cs" />
-	  <Compile Remove="ErrorDto.cs" />
-	  <Compile Remove="ExternalAuthenticationProviderDto.cs" />
-	  <Compile Remove="LoggedOutDto.cs" />
-	  <Compile Remove="LoginDto.cs" />
-	  <Compile Remove="LogoutDto.cs" />
-	  <Compile Remove="RedirectDto.cs" />
-	  <Compile Remove="RegistrationDto.cs" />
-	  <Compile Remove="RoleDto.cs" />
-	  <Compile Remove="RoleToCreateOrUpdateDto.cs" />
-	  <Compile Remove="UserDto.cs" />
-	  <Compile Remove="UserToCreateOrUpdateDto.cs" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <Folder Include="Queries\" />
 	</ItemGroup>
 
